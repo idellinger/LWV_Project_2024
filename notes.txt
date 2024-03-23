@@ -1,0 +1,3 @@
+ map of Multnomah County
+    - average age, or age bands, of inhabitant, using 2020 census data (?)\
+    - also show the average voter turnout in the 2022 or 2020 election.
