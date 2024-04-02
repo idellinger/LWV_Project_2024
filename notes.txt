@@ -1,3 +1,7 @@
  map of Multnomah County
     - average age, or age bands, of inhabitant, using 2020 census data (?)\
     - also show the average voter turnout in the 2022 or 2020 election.
+
+United States Census Bureau. (2018). Cartographic Boundary Files - Census Tracts [Data file]. Retrieved from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+
+United States Census Bureau. (2020). Decennial Census 2020 Summary File 1 (SF 1) [Data file]. Retrieved from https://data.census.gov/table/DECENNIALDP2020.DP1?g=040XX00US41_050XX00US41051$0600000&d=DEC%20Demographic%20Profile&tp=true
